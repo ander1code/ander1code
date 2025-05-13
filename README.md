@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Header">
+  <img src="./assets/banner.webp" alt="Header">
 </div>
 
 ## 🌐 Social Media & Developer Platforms  
@@ -23,7 +23,7 @@
   <tr>
     <td>
       <div>
-        <h3>🌟 <strong>Hey there</strong> 👋🏻😁 &nbsp;<img src="assets/flags/portuguese.png" style="height:20px;" alt="Portuguese Flag"></h3>
+        <h3>🌟 <strong>Hey there</strong> 👋🏻😁 &nbsp;<img src="assets/flags/portuguese.webp" style="height:20px;" alt="Portuguese Flag"></h3>
         <p>
           Eu sou Anderson, desenvolvedor <strong>full-stack</strong> 💻, com formação superior em <strong>Tecnologia em Informática</strong> 🎓,
           complementada por cursos especializados 📚, além de certificações oficiais Microsoft—<em><strong>MCSA</strong>, <strong>MCSD</strong>, <strong>MCTS</strong>, <strong>MS</strong> e <strong>MCP</strong></em>—🏅
@@ -39,8 +39,8 @@
       </div>
       <details align="right">
         <summary>
-          <img src="assets/flags/english.png" style="height:20px;" alt="English Flag">&nbsp;&nbsp;English Version&nbsp;&nbsp;
-          <img src="assets/flags/english.png" style="height:20px;" alt="English Flag">
+          <img src="assets/flags/english.webp" style="height:20px;" alt="English Flag">&nbsp;&nbsp;English Version&nbsp;&nbsp;
+          <img src="assets/flags/english.webp" style="height:20px;" alt="English Flag">
         </summary>
         <br>
         <p>
@@ -71,19 +71,19 @@
       <br>
       <div align="right">
         <a href="https://www.credly.com/badges/c4a6bfa3-6cdb-49c9-beb0-ac804606c3d6/public_url">
-          <img src="assets/certifications/credly/mcsa-web-applications-certified-2016.png"
+          <img src="assets/certifications/credly/mcsa-web-applications-certified-2016.webp"
                alt="MCSA Web Applications Certified 2016" style="height:100px;">
         </a>
         <a href="https://www.credly.com/badges/3e82880c-b590-4d3b-b74f-e6a9bdffd87e/public_url">
-          <img src="assets/certifications/credly/exam-480-programming-in-html5-with-javascript-and-css3.png"
+          <img src="assets/certifications/credly/exam-480-programming-in-html5-with-javascript-and-css3.webp"
                alt="Exam 480: Programming in HTML5 with JavaScript and CSS3" style="height:80px;">
         </a>
         <a href="https://www.credly.com/badges/42df4d45-b0ea-4ceb-b65f-5de9cabab4d9/public_url">
-          <img src="assets/certifications/credly/exam-486-developing-asp-net-mvc-web-applications.png"
+          <img src="assets/certifications/credly/exam-486-developing-asp-net-mvc-web-applications.webp"
                alt="Exam 486: Developing ASP.NET MVC Web Applications" style="height:80px;">
         </a>
         <a href="https://www.credly.com/badges/8835a8be-b60c-4c71-893f-7b47f7950296/public_url">
-          <img src="assets/certifications/credly/exam-487-developing-microsoft-azure-and-web-services.png"
+          <img src="assets/certifications/credly/exam-487-developing-microsoft-azure-and-web-services.webp"
                alt="Exam 487: Developing Microsoft Azure and Web Services" style="height:80px;">
         </a>
       </div>
@@ -92,16 +92,16 @@
           <summary align="right"><h3>More Certs ➕</h3></summary>
           <div align="right">
             <a href="https://mcp.andersonconceicao.com">
-              <img src="assets/certifications/transcription/mcsd.png" alt="MCSD Certification" style="height:80px;">
+              <img src="assets/certifications/transcription/mcsd.webp" alt="MCSD Certification" style="height:80px;">
             </a>
             <a href="https://mcp.andersonconceicao.com">
-              <img src="assets/certifications/transcription/mcp.png" alt="MCP Certification" style="height:50px;">
+              <img src="assets/certifications/transcription/mcp.webp" alt="MCP Certification" style="height:50px;">
             </a>
             <a href="https://mcp.andersonconceicao.com">
-              <img src="assets/certifications/transcription/mcts.png" alt="MCTS Certification" style="height:50px;">
+              <img src="assets/certifications/transcription/mcts.webp" alt="MCTS Certification" style="height:50px;">
             </a>
             <a href="https://mcp.andersonconceicao.com">
-              <img src="assets/certifications/transcription/ms.png" alt="MS Certification" style="height:50px;">
+              <img src="assets/certifications/transcription/ms.webp" alt="MS Certification" style="height:50px;">
             </a>
           </div>
         </details>
@@ -211,6 +211,9 @@
 </a>&nbsp;
 <a href="https://www.sqlite.org/" target="_blank">
     <img src="assets/icons/sqlite.svg" title="sqlite" alt="sqlite" width="40" height="40" />
+</a>&nbsp;
+<a href="https://www.firebirdsql.org/" target="_blank">
+    <img src="assets/icons/firebird.svg" title="firebird" alt="firebird" width="40" height="40" />
 </a>&nbsp;
 <a href="https://git-scm.com/" target="_blank">
     <img src="assets/icons/git.svg" title="git" alt="git" width="40" height="40" />
