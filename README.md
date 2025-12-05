@@ -2,6 +2,11 @@
   <img src="./assets/images/banner.webp" alt="Header">
 </div>
 
+<video controls width="500">
+  <source src="https://download.samplelib.com/mp4/sample-5s.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos HTML5.
+</video>
+
 ## 🌐 Social Media & Developer Platforms  
 
 <div align="right">
