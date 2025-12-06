@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="./assets/images/gif1.gif" alt="Header">
-</div>
-
-<div align="center">
-  <video autoplay loop muted playsinline>
-    <source src="./assets/videos/banner.mp4" type="video/mp4">
-  </video>
+  <img src="./assets/images/banner.gif" alt="Header">
 </div>
 
 ## 🌐 Social Media & Developer Platforms  
