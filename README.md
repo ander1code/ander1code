@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/images/banner.gif" alt="Header">
+  <img src="./assets/images/banner.webp" alt="Header">
 </div>
 
 ## 🌐 Social Media & Developer Platforms  
