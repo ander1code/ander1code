@@ -237,25 +237,34 @@
           <td colspan="3"><a href="https://coffeescript.org/" target="_blank"><img src="assets/icons/coffeescript.svg" title="CoffeeScript" alt="CoffeeScript" width="40" height="40" /></a></td>
         </tr>
       	<tr>
-      		<td colspan="5"><br></td>
+      		<td colspan="5"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
       	</tr>
       </table>
         </td>
         <td>
-            <div align="center">
-              <img src="https://ander1code-github-readme-stats.vercel.app/api?username=ander1code&show_icons=true&theme=react"
-              style="height:210;max-width:100%;" />
-              <img src="https://ander1code-github-readme-stats.vercel.app/api/top-langs/?username=ander1code&layout=compact&langs_count=12&theme=react"
-              style="height:197px;max-width:100%;" />
-              <img src="https://github-contribution-stats.vercel.app/api/?username=ander1code&theme=dark&layout=compact"
-              style="height:197px;max-width:100%;" />
-              <!--
-              <img src="http://github-readme-streak-stats.herokuapp.com?user=ander1code&theme=react&background=0d1117"
-              style="height:227px;max-width:100%;" /> -->
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ander1code&theme=react"
-              alt="anderson" style="height:134px;width:100%;" />
-              <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            </div>
+          <div align="left">
+            <h3>✨ Github Readme Stats 📊💻</h3>
+          </div>
+          <div align="center">
+            <!-- Estatísticas principais -->
+            <img src="https://ander1code-github-readme-stats.vercel.app/api?username=ander1code&show_icons=true&theme=react" style="height:200px;" />
+            <img src="https://ander1code-github-readme-stats.vercel.app/api/top-langs/?username=ander1code&layout=compact&langs_count=12&theme=react" style="height:208px;" />
+            <!-- Contribuições -->
+            <img src="https://github-contribution-stats.vercel.app/api/?username=ander1code&theme=dark&layout=compact" style="height:210px;" />
+            <!-- Detalhes do perfil -->
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ander1code&theme=react" alt="anderson" style="height:138px;" />
+            <!-- Estatísticas avançadas -->
+            <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ander1code" style="height:290px;" />
+            <!-- Gráfico de atividades -->
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=ander1code&theme=react-dark" style="height:165px;" />
+          </div>
+          <div align="left">
+            <h3>✨ Trophies 🏆🎖️</h3>
+          </div>
+          <div align="center">
+            <img src="https://stats.hyo.dev/api/github-trophies?login=ander1code" />
+            <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ander1code&theme=nord&title=-Followers,-Issues,-PullRequest,-Reviews" />
+          </div>
         </td>
        </tr>
   </table>
