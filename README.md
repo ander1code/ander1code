@@ -248,9 +248,9 @@
           <div align="center">
             <!-- Estatísticas principais -->
             <img src="https://ander1code-github-readme-stats.vercel.app/api?username=ander1code&show_icons=true&theme=react" style="height:200px;" />
-            <img src="https://ander1code-github-readme-stats.vercel.app/api/top-langs/?username=ander1code&layout=compact&langs_count=12&theme=react" style="height:208px;" />
+            <img src="https://ander1code-github-readme-stats.vercel.app/api/top-langs/?username=ander1code&layout=compact&langs_count=12&theme=react" style="height:200px;" />
             <!-- Contribuições -->
-            <img src="https://github-contribution-stats.vercel.app/api/?username=ander1code&theme=dark&layout=compact" style="height:210px;" />
+            <img src="https://github-contribution-stats.vercel.app/api/?username=ander1code&theme=dark&layout=compact" style="height:200px;" />
             <!-- Detalhes do perfil -->
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ander1code&theme=react" alt="anderson" style="height:138px;" />
             <!-- Estatísticas avançadas -->
