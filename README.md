@@ -117,8 +117,8 @@
     <a href="https://spring.io/projects/spring-framework"><img src="assets/icons/spring.svg" title="Spring" alt="Spring" width="40" height="40" /></a>
     <a href="https://hibernate.org/"><img src="assets/icons/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40" /></a>
     <a href="https://tomcat.apache.org/"><img src="assets/icons/tomcat.svg" title="Apache Tomcat" alt="Apache Tomcat" width="40" height="40" /></a>
-    <a href="https://maven.apache.org/"><img src="assets/icons/apache_maven.svg" title="Apache Maven" alt="Apache Maven" width="40" height="40" /></a><br>
-    <a href="https://www.ruby-lang.org/"><img src="assets/icons/ruby.svg" title="Ruby" alt="Ruby" width="40" height="40" /></a>
+    <a href="https://maven.apache.org/"><img src="assets/icons/apache_maven.svg" title="Apache Maven" alt="Apache Maven" width="40" height="40" /></a>
+    <a href="https://www.ruby-lang.org/"><img src="assets/icons/ruby.svg" title="Ruby" alt="Ruby" width="40" height="40" /></a><br>
     <a href="https://rubyonrails.org/"><img src="assets/icons/rails.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40" /></a>
     <a href="https://www.scala-lang.org/"><img src="assets/icons/scala.svg" title="Scala" alt="Scala" width="40" height="40" /></a>
     <a href="https://www.playframework.com/"><img src="assets/icons/play.svg" title="Play Framework" alt="Play Framework" width="40" height="40" /></a>
@@ -130,10 +130,8 @@
     <a href="https://jquery.com/"><img src="assets/icons/jquery.svg" title="jQuery" alt="jQuery" width="40" height="40" /></a>
     <a href="https://getbootstrap.com/"><img src="assets/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" /></a>
     <a href="https://www.npmjs.com/"><img src="assets/icons/npm.svg" title="npm" alt="npm" width="40" height="40" /></a>
-    <a href="https://yarnpkg.com/"><img src="assets/icons/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40" /></a><br>
-    <a href="https://www.php.net/"><img src="assets/icons/php.svg" title="PHP" alt="PHP" width="40" height="40" /></a>
-    <a href="https://getcomposer.org/"><img src="assets/icons/composer.svg" title="Composer" alt="Composer" width="40" height="40" /></a>
-    <a href="https://httpd.apache.org/"><img src="assets/icons/apache.svg" title="Apache HTTP Server" alt="Apache HTTP Server" width="40" height="40" /></a>
+    <a href="https://yarnpkg.com/"><img src="assets/icons/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40" /></a>
+    <a href="https://www.php.net/"><img src="assets/icons/php.svg" title="PHP" alt="PHP" width="40" height="40" /></a><br>
     <a href="https://en.cppreference.com/w/c"><img src="assets/icons/c.svg" title="C" alt="C" width="40" height="40" /></a>
     <a href="https://isocpp.org/"><img src="assets/icons/cplusplus.svg" title="C++" alt="C++" width="40" height="40" /></a>
     <a href="https://www.json.org/"><img src="assets/icons/json.svg" title="JSON" alt="JSON" width="40" height="40" /></a>
@@ -143,10 +141,10 @@
     <a href="https://mariadb.org/"><img src="assets/icons/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40" /></a>
     <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" /></a>
     <a href="https://www.oracle.com/database/"><img src="assets/icons/oracle.svg" title="Oracle Database" alt="Oracle Database" width="40" height="40" /></a>
-    <a href="https://www.firebirdsql.org/"><img src="assets/icons/firebird.svg" title="Firebird" alt="Firebird" width="40" height="40" /></a><br>
+    <a href="https://www.firebirdsql.org/"><img src="assets/icons/firebird.svg" title="Firebird" alt="Firebird" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/"><img src="assets/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /></a>
     <a href="https://git-scm.com/"><img src="assets/icons/git.svg" title="Git" alt="Git" width="40" height="40" /></a>
-    <a href="https://github.com/"><img src="assets/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" /></a>
+    <a href="https://github.com/"><img src="assets/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" /></a><br>
     <a href="https://www.docker.com/"><img src="assets/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40" /></a>
     <a href="https://www.kernel.org/"><img src="assets/icons/linux.svg" title="Linux" alt="Linux" width="40" height="40" /></a>
     <a href="https://www.vmware.com/"><img src="assets/icons/vmware.svg" title="VMware" alt="VMware" width="40" height="40" /></a>
